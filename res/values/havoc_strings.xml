@@ -283,6 +283,7 @@
     <string name="custom_light_on_time_title">Light pulse duration</string>
     <string name="custom_light_off_time_title">Light pulse interval</string>
 
+<<<<<<< HEAD:res/values/havoc_strings.xml
     <!-- Hotspot extras -->
     <string name="tethering_allow_vpn_upstreams_title">Allow clients to use VPNs</string>
     <string name="tethering_allow_vpn_upstreams_summary">Permit hotspot clients to use this device\u2019s VPN connections for upstream connectivity</string>
@@ -309,5 +310,14 @@
     <string name="data_usage_period">Data usage period</string>
     <string name="data_usage_daily">Daily</string>
     <string name="data_usage_monthly">Monthly</string>
+
+    <!-- Dashboard conditions-->
+    <string name="dashboard_category">Settings</string>
+    <string name="dashboard_conditions_title">Dashboard conditions</string>
+    <string name="summary_dashboard_conditions_enabled">Dashboard conditions are enabled</string>
+    <string name="summary_dashboard_conditions_disabled">Dashboard conditions are disabled</string>
+    <string name="dashboard_suggestions_title">Dashboard suggestions</string>
+    <string name="summary_dashboard_suggestions_enabled">Dashboard suggestions are enabled</string>
+    <string name="summary_dashboard_suggestions_disabled">Dashboard suggestions are disabled</string>
 
 </resources>
